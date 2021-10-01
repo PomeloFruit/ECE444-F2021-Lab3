@@ -1,3 +1,7 @@
+# ECE444-F2021-Lab3 
+Alan Du<br>
+This repo is a clone of https://github.com/nelaturuk/education_pathways.
+
 # CARTE Education Pathways
 
 ## Description
