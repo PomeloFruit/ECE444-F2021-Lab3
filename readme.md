@@ -2,6 +2,17 @@
 Alan Du<br>
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+<br>Activity 1<br>![activity1](https://user-images.githubusercontent.com/39738139/135664220-58261a3e-5647-4a43-b2ef-91eb1b04ba3e.PNG)
+<br>Activity 2<br>![activity2](https://user-images.githubusercontent.com/39738139/135664249-d1c600e7-d3ae-45cd-ae34-f22b23f28940.PNG)
+<br>Activity 3<br>![activity3](https://user-images.githubusercontent.com/39738139/135664285-6821d1af-3bab-4bbe-a825-84296e7091a5.PNG)
+<br>Activity 4<br>![activity4](https://user-images.githubusercontent.com/39738139/135664304-f8b5ac4f-f1ba-4b9a-aa13-dad18ce77ee1.PNG)
+<br>Activity 5<br>
+Functional Requirement: Multiple Profiles<br>
+I want to add the ability for the user to save multiple profiles to the Education Pathways tool. I think being able to save multiple profiles of different course selections would be very helpful in course selection.
+<br><br>
+Non-functional Requirement: Accuracy<br>
+I want to improve the accuracy of the results shown by the search/filter system for the Education Pathways tool. When you search "machine learning" with no restrictions in the filter, you will see "Basics of Writing in English" and some Music courses, which have nothing to do with machine learning. I want to change the search system so that relevant courses will be listed.
+
 # CARTE Education Pathways
 
 ## Description
